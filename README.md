@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm a Full-stack student! 👋
 
 <!--
 **riickiy2/riickiy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
